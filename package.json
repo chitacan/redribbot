@@ -5,6 +5,7 @@
   "author": "redribbon",
   "description": "A hubot instance for redribbon.",
   "dependencies": {
+    "fb": "^0.7.0",
     "github": "^0.2.3",
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
@@ -19,7 +20,9 @@
     "hubot-slack": "^3.2.1",
     "hubot-wolfram": "^1.0.7",
     "hubot-youtube": "^0.1.2",
+    "moment": "^2.9.0",
     "q": "^1.1.2",
+    "slack-node": "0.0.95",
     "underscore": "^1.7.0",
     "wolfram": ""
   },
